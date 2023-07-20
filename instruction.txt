@@ -1,0 +1,1 @@
+Pour executer le code python, merci d'ouvrir le fichier dans IDE python comme pycharm et l'executer .
